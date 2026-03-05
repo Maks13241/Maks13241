@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/Maksik-orange)
 ![Static Badge](https://img.shields.io/badge/IPZs-green)
-https://[img.shields.io](https://www.instagram.com/_maks._t/)/badge/IPZs-green
+![Static Badge](https://img.shields.io/badge/Programmer-purple)
