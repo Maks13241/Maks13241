@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/2c8b72ee-2ff6-48cd-91c2-db50fe1a42f6)
 
 ![Static Badge](https://img.shields.io/badge/Maksik-orange)
-![Static Badge](https://img.shields.io/badge/Maksik-orange)
+![Static Badge](https://img.shields.io/badge/IPZs-green)
+https://[img.shields.io](https://www.instagram.com/_maks._t/)/badge/IPZs-green
